@@ -6,9 +6,7 @@ This repository contains a step-by-step tutorial and code snippet to learn react
 ## ReactJS Installation
 
 1. Install NodeJS and NPM
-
 2. Install IDE of your choice. We recommand Visual Studio Code
-
 3. Install React from terminal
  
 - Install reactjs library : `npm install -g  create-react-app`
@@ -33,6 +31,7 @@ This repository contains a step-by-step tutorial and code snippet to learn react
 2. Hello World, Program structure, babel, jsx: `#5` (code: `tut1`)
 3. JSX (javascript extension) in React JS `#6`
 4. How to Render Multiple Elements inside `ReactDOM.render()`: `#7`, `#8`, `#9` (code: `tut2`)
-5. 
+5. JavaScript Expressions, template literals in JSX: `#10`, `#11`, `#12` (code: `tut3`) 
+
 
   
