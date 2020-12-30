@@ -11,6 +11,14 @@ import reportWebVitals from './reportWebVitals';
 //   document.getElementById('root')
 // );
 
+// notes
+// <h1>Hello World</h1> - This is a jsx (java script extension, not HTML)
+// This jsx has been compiled by babel
+// ReactDOM.render() has two arguments
+// -- first argument is -- what you want to render (in our case "Hello world")
+// -- second argument is -- where do you want to render (we want to render is `index.html` page)
+
+
 ReactDOM.render(
   <h1>Hello World</h1>,
   document.getElementById('root')
