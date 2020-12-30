@@ -14,13 +14,13 @@ import reportWebVitals from './reportWebVitals';
 // how to render multiple lines...
 
 // first method
-ReactDOM.render(
-  <div>s
-    <h1>hello world</h1>
-    <h1>Hello Thapa Technical- you are awesome</h1>
-  </div>,
-  document.getElementById('root')
-);
+// ReactDOM.render(
+//   <div>
+//     <h1>hello world</h1>
+//     <h1>Hello Thapa Technical- you are awesome</h1>
+//   </div>,
+//   document.getElementById('root')
+// );
 
 // second method (react v16 + )
 // ReactDOM.render(
@@ -30,6 +30,25 @@ ReactDOM.render(
 //   <h1>Hello Thapa Technical- you are awesome</h1>
 //   ], document.getElementById('root')
 // );
+
+//Third method...
+ReactDOM.render(
+  <>
+    <h1>hello world</h1>
+    <h1>Hello Thapa Technical- you are awesome</h1>
+    <ol>
+      <li>name 1</li>
+      <li>name 2</li>
+      <li>name 3</li>
+      <li>name 4</li>
+      <li>name 5</li>
+    </ol>
+  </>,
+  document.getElementById('root')
+);
+
+
+
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
