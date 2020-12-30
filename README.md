@@ -30,9 +30,9 @@ This repository contains a step-by-step tutorial and code snippet to learn react
 - link of tutorial series: https://tinyurl.com/y9rqjzj2
 
 1. ReactJS Environment Setup @ `#4`
-2. Hello World, Program structure, babel, jsx: `#5` (code: tut1)
+2. Hello World, Program structure, babel, jsx: `#5` (code: `tut1`)
 3. JSX (javascript extension) in React JS `#6`
-4. How to Render Multiple Elements inside `ReactDOM.render()`: `#7`, `#8`, `#9` (code: tut2)
+4. How to Render Multiple Elements inside `ReactDOM.render()`: `#7`, `#8`, `#9` (code: `tut2`)
 5. 
 
   
