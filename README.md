@@ -32,6 +32,7 @@ This repository contains a step-by-step tutorial and code snippet to learn react
 3. JSX (javascript extension) in React JS `#6`
 4. How to Render Multiple Elements inside `ReactDOM.render()`: `#7`, `#8`, `#9` (code: `tut2`)
 5. JavaScript Expressions, template literals in JSX: `#10`, `#11`, `#12` (code: `tut3`) 
+6. JSX Attributes in ReactJS: `#13`, (code: `tut4`) 
 
 
   
