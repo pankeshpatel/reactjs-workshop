@@ -1,25 +1,25 @@
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+// Exporting youtuber variable
+const youtuber = 'thapa technical';
+
+// Exporting second variable
+const language = "reactjs";
+
+function myName(){
+  let name;
+  return name = "My name is Lakhan";
 }
 
-export default App;
+
+
+
+// default should be used only for 
+// the first variable
+export default youtuber;
+
+// exporting the second variable and function 
+export {language, myName};
+
+

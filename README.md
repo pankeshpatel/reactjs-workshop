@@ -37,6 +37,7 @@ This repository contains a step-by-step tutorial and code snippet to learn react
 8. Simple Greeting Website: `#17`
 9. ReactJS Component: `#18`  (code: `tut6`) 
 10. React Project into Components: `#19` (code: `tut7`)
+11. ES6 Modules Import Export : `#20`, `#21` (code: `tut8`)
 
 
   
