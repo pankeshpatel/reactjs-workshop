@@ -41,5 +41,6 @@ This repository contains a step-by-step tutorial and code snippet to learn react
 12. React JS Props (Netflix App), map, fat arrow: `#22` , `#23`, `#24` (code: `tut9`)
 13. Debugging & Error Handling : `#25` 
 14. useState in Hook in React JS: `#30` (Code: `tut10`)
+15. Handling Events in ReactJS: `#33` (Code: `tut11`)
 
   
