@@ -6,7 +6,6 @@ function App() {
   const [fullName, setFullName] = useState("");
    
   function inputEvent(event){
-    //console.log(event.target.value);
     setName(event.target.value);
   }
 
