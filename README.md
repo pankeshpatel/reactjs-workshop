@@ -34,6 +34,9 @@ This repository contains a step-by-step tutorial and code snippet to learn react
 5. JavaScript Expressions, template literals in JSX: `#10`, `#11`, `#12` (code: `tut3`) 
 6. JSX Attributes, JSX and CSS Style : `#13`, `#14` (code: `tut4`) 
 7. Internal CSS & Inline CSS Styling:  `#16`  (code: `tut5`) 
+8. Simple Greeting Website: `#17`
+9. ReactJS Component: `#18`  (code: `tut6`) 
+10. React Project into Components: `#19` (code: `tut7`)
 
 
   
