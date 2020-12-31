@@ -39,5 +39,7 @@ This repository contains a step-by-step tutorial and code snippet to learn react
 10. React Project into Components: `#19` (code: `tut7`)
 11. ES6 Modules Import Export : `#20`, `#21` (code: `tut8`)
 12. React JS Props (Netflix App), map, fat arrow: `#22` , `#23`, `#24` (code: `tut9`)
+13. Debugging & Error Handling : `#25` 
+14. useState in Hook in React JS: `#30` (Code: `tut10`)
 
   
