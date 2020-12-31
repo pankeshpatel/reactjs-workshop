@@ -38,7 +38,6 @@ This repository contains a step-by-step tutorial and code snippet to learn react
 9. ReactJS Component: `#18`  (code: `tut6`) 
 10. React Project into Components: `#19` (code: `tut7`)
 11. ES6 Modules Import Export : `#20`, `#21` (code: `tut8`)
-12. React JS Props (Netflix App): `#22` , `#23` (code: `tut9`)
-13. ReactJS JavaScript Array Map Method :    (Code: `tut10`)
+12. React JS Props (Netflix App), map, fat arrow: `#22` , `#23`, `#24` (code: `tut9`)
 
   
