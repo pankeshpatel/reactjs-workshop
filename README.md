@@ -42,7 +42,12 @@ This repository contains a step-by-step tutorial and code snippet to learn react
 13. Debugging & Error Handling : `#25` 
 14. useState in Hook in React JS: `#30` (Code: `tut10`)
 15. Handling Events in ReactJS: `#33` (Code: `tut11`)
-16. Forms, Controlled Vs Uncontrolled Component: `#34`, `#35` (code: `tut12`)
+16. Reactjs Forms: `#34`, `#35` (code: `tut12`)
+17. Spread Operator, "..." three dots do in ReactJS :  `#38` , `#39`
+18. Building a Todo List App Project: https://tinyurl.com/ycm42a7b (code: `tut13`)
+
+
+
 
 
 
