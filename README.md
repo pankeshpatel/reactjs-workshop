@@ -40,11 +40,18 @@ This repository contains a step-by-step tutorial and code snippet to learn react
 11. ES6 Modules Import Export : `#20`, `#21` (code: `tut8`)
 12. React JS Props (Netflix App), map, fat arrow: `#22` , `#23`, `#24` (code: `tut9`)
 13. Debugging & Error Handling : `#25` 
-14. useState in Hook in React JS: `#30` (Code: `tut10`)
+14. useState in Hook in React JS: `#30`, `#45` (Code: `tut10`)
 15. Handling Events in ReactJS: `#33` (Code: `tut11`)
 16. Reactjs Forms: `#34`, `#35` (code: `tut12`)
 17. Spread Operator, "..." three dots do in ReactJS :  `#38` , `#39`
-18. Building a Todo List App Project: https://tinyurl.com/ycm42a7b (code: `tut13`)
+18. React and other UI framework (e.g., Material UI): `#42`, `#43` , `#45`
+19. React component through npm: `#44`
+
+
+
+### Reactjs project
+ 
+ - Building a Todo List App Project: https://tinyurl.com/ycm42a7b (code: `tut13`)
 
 
 
