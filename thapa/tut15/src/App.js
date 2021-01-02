@@ -1,25 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect, useState } from 'react';
 
-function App() {
+// useEffect() - this function is used to perform an activity 
+// after rendering  
+
+const App = () => {
+  const [num, setNum] = useState(0);
+
+  function increment(){
+    setNum(num + 1);
+  }
+
+
+// Empty array as a second argument of 
+// useEffect() function means --
+// when you referesh a button, then this 
+// function will be executed.
+
+  useEffect(
+     () => {
+      alert("I am clicked...");
+    }, []);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <button onClick={increment}> click me {num} </button>
   );
-}
+
+};
 
 export default App;
