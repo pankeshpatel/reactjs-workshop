@@ -1,5 +1,7 @@
 import React, { createContext } from 'react';
 import ComA from './ComA';
+//import ComC from './ComC';
+
 
 // App.js wants to pass Data to ComC (Component C).
 // The following creates context.
