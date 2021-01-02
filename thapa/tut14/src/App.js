@@ -1,25 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { createContext } from 'react';
+import ComA from './ComA';
 
-function App() {
+// App.js wants to pass Data to ComC (Component C).
+// The following creates context.
+const FirstName = createContext();
+const LastName = createContext();
+
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <FirstName.Provider value={"Pankesh"} >
+      <LastName.Provider value={"Patel"}>
+        <ComA />
+      </LastName.Provider>  
+      </FirstName.Provider>
+      
+    </>
   );
-}
+};
 
 export default App;
+export {FirstName, LastName};
