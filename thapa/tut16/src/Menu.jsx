@@ -5,7 +5,8 @@ const Menu = () => {
     return (
         <>
         <NavLink exact activeClassName="active_class" to="/">About us</NavLink> 
-        <NavLink exact activeClassName="active_class" to="/contact">Contact us</NavLink>    
+        <NavLink exact activeClassName="active_class" to="/contact">Contact us</NavLink> 
+        <NavLink exact activeClassName="active_class" to="/service">Service</NavLink>    
         <br />
         <a href = "/">AboutUs</a>
         <a href = "/contact">Contact</a>
