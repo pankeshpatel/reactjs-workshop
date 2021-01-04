@@ -48,6 +48,7 @@ This repository contains a step-by-step tutorial and code snippet to learn react
 19. React component through npm: `#44`
 20. Context API , `createContext()`, `useContext()` : `#51`, `#52` (code: `tut14`) 
 21. `useEffect()` after rendering the page: `#54` (1), `#54` (2) (code: `tut15`) 
+22. React router (client-side rendering): `#56`, `#57` (code: `tut16`)
 
 
 
