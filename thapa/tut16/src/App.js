@@ -6,6 +6,8 @@ import About from './About';
 import Error from './Error';
 import Menu from './Menu';
 import Service from './Service';
+import User from './User';
+
 
 
 
@@ -21,10 +23,12 @@ const App = () => {
     <>
     <Menu/>
     <Switch>
-      <Route exact path="/" component={() =>  <About name="about"/>}/>
+      <Route exact path="/" component={() =>  <About name={"about"}/>}/>
       <Route exact path="/service" component={Service}/>
       <Route exact path="/contact" component={Contact}/>
       <Route exact path="/contact/name" component={Name}/>
+      <Route exact path="/user/:name" component={User}/>
+      <Route exact path="/user/:fname/:lname" component={User}/>
       <Route component= {Error} />
     </Switch>
     </>
