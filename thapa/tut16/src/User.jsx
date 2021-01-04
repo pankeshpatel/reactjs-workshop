@@ -14,6 +14,7 @@ const User = () => {
     //const {name, fname, lname} = useParams();
     const {fname, lname} = useParams();
 
+
     //return <h1> This is  User {name} page </h1>
     // OR
 
@@ -26,6 +27,8 @@ const User = () => {
         {
             location.pathname === `/user/pankesh/patel` ? <button> Click Me  </button> : null
         }
+
+        
     </>
     );
 };
