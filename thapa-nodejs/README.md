@@ -35,3 +35,11 @@
 4. Insert Multiple Documents using One Line: `#4` (code: `#e2`)
 5. How to Read or Querying the Documents using Mongoose: `#5` (code: `#e2`)
 6. MongoDB Comparison Query, Logical Operators, Sorting, count, Update, Delete, built-in validation. Create Your Own Custom Validation, NPM Validator Package : `#15`, `#16`, `#17`, `#18`, `#19`, `#20`, `#21`, `#22` (code: `#e2`)
+
+#### Restful APIs
+
+1. Create Your Own RESTFul API @ https://tinyurl.com/yxo2us6a (code: `e3`)
+2. Handling Get Request @ https://tinyurl.com/y6d33u3a (code: `e3`)
+3. Handling PUT/PATCH Request in REST API @https://tinyurl.com/y6auq9a9 (code: `e3`)
+4. Handling DELETE Request@ https://tinyurl.com/y65mt44u (code: `e3`)
+5. Adding Express Router in RESTful API @ https://tinyurl.com/y2brezry (code: `e3`)
