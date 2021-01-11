@@ -28,3 +28,10 @@
 4. MongoDB compass GUI: `#8`, `#9`
 
 #### MongoDB and Nodejs
+
+1. Connect NodeJS, Express to MongoDB using Mongoose: `#1` (code: `#e2` )
+2. Create Collections using Mongoose: `#2` (code: `#e2` )
+3. Create and Insert the Document : `#3` (code: `#e2`)
+4. Insert Multiple Documents using One Line: `#4` (code: `#e2`)
+5. How to Read or Querying the Documents using Mongoose: `#5` (code: `#e2`)
+6. MongoDB Comparison Query, Logical Operators, Sorting, count, Update, Delete, built-in validation. Create Your Own Custom Validation, NPM Validator Package : `#15`, `#16`, `#17`, `#18`, `#19`, `#20`, `#21`, `#22` (code: `#e2`)
